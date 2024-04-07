@@ -45,17 +45,14 @@ table td:last-child{
 }
 
 /* Envelope address */
-
-#chapter-14 blockquote:first-of-type {
-	text-align:center;
+#chapter-14 blockquote:first-of-type{
+	text-align: center;
 }
 
 /* Newspaper headlines */
-
 #chapter-7 blockquote:first-of-type,
 #chapter-9 blockquote:first-of-type,
-#chapter-26 blockquote:first-of-type {
-	text-align:center;
-	font-variant:small-caps;
+#chapter-26 blockquote:first-of-type{
+	font-variant: small-caps;
+	text-align: center;
 }
-
