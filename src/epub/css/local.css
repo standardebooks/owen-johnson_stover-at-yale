@@ -44,6 +44,10 @@ table td:last-child{
 	text-align: right;
 }
 
+table tfoot tr td:last-of-type{
+	border-top: 1px solid;
+}
+
 /* Envelope address */
 #chapter-14 blockquote:first-of-type{
 	text-align: center;
