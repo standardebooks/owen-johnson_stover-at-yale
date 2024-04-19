@@ -55,7 +55,7 @@ table tfoot tr td:last-of-type{
 
 /* Newspaper headlines */
 #chapter-7 blockquote:first-of-type,
-#chapter-9 blockquote:first-of-type,
+#chapter-9 blockquote,
 #chapter-26 blockquote:first-of-type{
 	font-variant: small-caps;
 	text-align: center;
