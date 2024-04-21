@@ -39,7 +39,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Lawrenceville Stories</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">A young prep school football star arrives at Yale, where grows and develops on the football field and off.</dc:description>
+		<dc:description id="description">A young prep school football star arrives at Yale, where he grows and develops on the football field and off.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Dink Stover was introduced to readers in earlier volumes of the Lawrenceville Stories as a brash young newcomer whose biggest ambition is to play football for his school. At the start of &lt;i&gt;Stover at Yale&lt;/i&gt; he seems much the same, arriving at the prestigious university determined to captain the football team, earn a place in the most prestigious secret society, and generally become the hero of a much less interesting novel.&lt;/p&gt;
 			&lt;p&gt;Gradually, though, the novel shifts its focus, as both Stover and the novel move outside the comfortable world of Stover’s prep school chums and examine the ways in which the school fails to live up to its “democratic” ideals. Johnson never abandons the form of the school novel, but he stretches it to include types of heroism beyond the football field.&lt;/p&gt;
