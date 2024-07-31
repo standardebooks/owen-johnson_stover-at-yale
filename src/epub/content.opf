@@ -48,7 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46674</dc:source>
 		<dc:source>https://archive.org/details/stoveratyale00john</dc:source>
-		<meta property="se:word-count">100486</meta>
+		<meta property="se:word-count">100478</meta>
 		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Stover_at_Yale</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/owen-johnson_stover-at-yale</meta>
