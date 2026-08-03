@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/owen-johnson/stover-at-yale</dc:identifier>
 		<dc:date>2024-04-19T17:07:55Z</dc:date>
@@ -41,12 +41,12 @@
 		<meta id="collection-1" property="belongs-to-collection">The Lawrenceville Stories</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">A young prep school football star arrives at Yale, where he grows and develops on the football field and off.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young prep school football star arrives at Yale, where he grows and develops on the football field and off.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Dink Stover was introduced to readers in earlier volumes of the Lawrenceville Stories as a brash young newcomer whose biggest ambition is to play football for his school. At the start of &lt;i&gt;Stover at Yale&lt;/i&gt; he seems much the same, arriving at the prestigious university determined to captain the football team, earn a place in the most prestigious secret society, and generally become the hero of a much less interesting novel.&lt;/p&gt;
 			&lt;p&gt;Gradually, though, the novel shifts its focus, as both Stover and the novel move outside the comfortable world of Stover’s prep school chums and examine the ways in which the school fails to live up to its “democratic” ideals. &lt;a href="https://standardebooks.org/ebooks/owen-johnson"&gt;Johnson&lt;/a&gt; never abandons the form of the school novel, but he stretches it to include types of heroism beyond the football field.&lt;/p&gt;
 			&lt;p&gt;The novel’s criticism of Yale’s powerful and prestigious secret societies caused controversy on its release, but it was more than a succès de scandale. Its unique combination of convention and ambition captured the public imagination, and for decades afterwards Dink Stover was shorthand for a certain type of undergraduate. The book is referenced even today by writers on American college life, and even put in an appearance in a 1996 episode of &lt;i&gt;The Simpsons&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46674</dc:source>
 		<dc:source>https://archive.org/details/stoveratyale00john</dc:source>
