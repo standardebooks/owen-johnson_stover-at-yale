@@ -31,7 +31,7 @@
 		<dc:title id="title">Stover at Yale</dc:title>
 		<meta property="file-as" refines="#title">Stover at Yale</meta>
 		<dc:subject id="subject-1">College stories</dc:subject>
-		<dc:subject id="subject-2">Yale University -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Yale University--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85028346</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
